@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Frisco Template
+title: red
 url: "https:maroofsha.github.io"
 baseurl:
 google_analytics_key:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: red
   links:
-    - https:maroofsha.github.io/frisco
+    - https:maroofsha.github.io/red
 
 # -----
 # Build
