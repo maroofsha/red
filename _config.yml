@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: red
+title: Frisco Template
 url: "https:maroofsha.github.io"
-baseurl:https://maroofsha.github.io/red
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: red
+  name: Frisco Template
   links:
-    - https:maroofsha.github.io/red
+    - https:maroofsha.github.io/frisco
 
 # -----
 # Build
